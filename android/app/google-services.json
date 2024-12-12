@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "377853137563",
+    "project_id": "soul-chat-1513a",
+    "storage_bucket": "soul-chat-1513a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377853137563:android:f43ce097bd6c9fba622c3e",
+        "android_client_info": {
+          "package_name": "com.shubham.flash_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBna15Bgrfjf3HQsznmAwZhRBnownkvagQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
